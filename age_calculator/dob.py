@@ -22,7 +22,7 @@ __author__='''
     Admin
     S.S.B Group
     surajsinghbisht054@gmail.com
-    http://bitforestinfo.blogspot.in/
+    http://www.bitforestinfo.com/
 
     Note: We Feel Proud To Be Indian
 ######################################################
