@@ -1,11 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+
 # -*- coding: utf-8 -*-
-# ---------------- READ ME ---------------------------------------------
-# This Script is Created Only For Practise And Educational Purpose Only
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
-#
-#
+
 ##################################################
 ######## Please Don't Remove Author Name #########
 ############### Thanks ###########################
@@ -13,21 +9,12 @@
 #
 #
 __author__='''
-
-######################################################
-                By S.S.B Group                          
-######################################################
-
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    http://www.bitforestinfo.com/
-
-    Note: We Feel Proud To Be Indian
-######################################################
+Suraj Singh
+surajsinghbisht054@gmail.com
 '''
-print __author__
+
+
+print(__author__)
 
 # Import Module
 import re
@@ -87,11 +74,11 @@ def age(data):
 		return [abs(t_dt-b_dt).days,b_dt,t_dt]
 
 	except EOFError as e:
-		print "[*] Something Wrong.."
-		print "[*] Friend... ", e
+		print("[*] Something Wrong..")
+		print("[*] Friend... ", e)
 		return 
 		
 
 if __name__ == '__main__':
-	formated_time = main(raw_input("[+] Enter Date In dd/mm/year hh:mm:ss "))		# Formated Date
-	print datetime.timedelta(days=age(formated_time)[0]).__str__()
+	formated_time = main(input("[+] Enter Date In dd/mm/year hh:mm:ss "))		# Formated Date
+	print(datetime.timedelta(days=age(formated_time)[0]).__str__())

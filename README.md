@@ -1,33 +1,19 @@
-# age_calculator
-Python Age Calculator With Gui
-# ---------------- READ ME ---------------------------------------------
-# This Script is Created Only For Practise And Educational Purpose Only
-# This is an Example Of Tkinter Canvas Graphics
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
-__author__='''
+# python tkinter age calculation
+python simple age calculating gui using tkinter
 
-######################################################
-                By S.S.B Group                          
-######################################################
 
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    http://bitforestinfo.blogspot.in/
+<div style="box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);">
+<a href="https://surajsinghbisht054.blogspot.com" target="_blank"> 
+![author_profile](https://1.bp.blogspot.com/-PX4oBdjyb14/XbOCqgWpATI/AAAAAAAAELo/-jSsyNSMHmkXGXtw9qCT68qiUNqDE2NcACNcBGAsYHQ/s400/logo.png)
+</a>
+<p> author : surajsinghbisht054@gmail.com </p>
+</div>
 
-    Note: We Feel Proud To Be Indian
-######################################################
-'''
+
+
 # ScreenShot
 
 ![ Screenshot](scr/test.png?raw=true "age_calculator")
 
-For More Informations About The Tool.. Read README Txt file
-
 Please Feel Free For Contribution.
 
-Written By 
-	S.S.B
-	surajsinghbisht054@gmail.com
